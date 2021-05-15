@@ -17,6 +17,7 @@ IDEA: We can add this software alongwith Traffic Signals and those who will foun
 Editor : Sublime Text Editor
 
 https://raw.githubusercontent.com/yashowardhan01/CV-IP-Mini-Project/main/videos/face-mask-detector-video.mp4
+
 https://user-images.githubusercontent.com/45869380/118362277-87aa0100-b5ac-11eb-9ef8-f42195de3726.mp4
 
 # TEAM MEMBERS
