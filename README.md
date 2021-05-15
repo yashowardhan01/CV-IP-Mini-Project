@@ -14,7 +14,7 @@ IDEA: We can add this software alongwith Traffic Signals and those who will foun
 
 ## Software_Used : tensorflow, keras, imutils, numpy, opencv-python, matplotlib, scipy
 
-Editor : Sublime Text Editor
+Editor : PyCharm and Sublime Text Editor
 
 https://user-images.githubusercontent.com/56044131/118370630-2abb4480-b5c6-11eb-96d5-c953d9bda6f0.mp4
 
