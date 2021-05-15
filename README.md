@@ -12,7 +12,7 @@ PROBLEM: Second wave of COVID'19 is very dangerous and many innocent public are 
 IDEA: We can add this software alongwith Traffic Signals and those who will found without mask in public, automatically the fine will be imposed and the fined amount will get deducted from their account. This will help our Government to control the public of India who are not taking COVID'19 Pandemic seriously. 
 
 
-## Software_Used : tensorflow, keras, imutils, numpy, opencv-python, matplotlib, scipy
+## Python_Libraries_Used : tensorflow, keras, imutils, numpy, opencv-python, matplotlib, scipy,MobilenetV2,mtcnn
 
 Editor : PyCharm and Sublime Text Editor
 
