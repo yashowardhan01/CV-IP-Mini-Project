@@ -16,6 +16,8 @@ IDEA: We can add this software alongwith Traffic Signals and those who will foun
 
 Editor : PyCharm and Sublime Text Editor
 
+Presentation link : https://docs.google.com/presentation/d/1-MATF5qPIehCNvlmZQNdgd_g0pmTeyMgxWUbUH_5s5Q/edit?usp=sharing
+
 https://user-images.githubusercontent.com/56044131/118370630-2abb4480-b5c6-11eb-96d5-c953d9bda6f0.mp4
 
 
